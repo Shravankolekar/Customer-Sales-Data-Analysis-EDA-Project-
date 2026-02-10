@@ -1,0 +1,185 @@
+📊 JOB-READY EDA PROJECT
+🏦 Project Title: Customer Sales Data Analysis
+
+You will create:
+
+CSV dataset (200+ rows minimum)
+
+Full EDA
+
+Insights
+
+Visualizations
+
+Business conclusions
+
+This is 100% resume-worthy.
+
+🧠 SCENARIO
+
+You are hired as a Data Analyst in an E-commerce company.
+
+Your task is to analyze customer sales data and give insights to management.
+
+📁 Dataset Columns You Must Create
+
+Create a CSV file with these columns:
+
+order_id
+
+customer_id
+
+gender
+
+age
+
+city
+
+product_category
+
+product_price
+
+quantity
+
+total_amount
+
+payment_method
+
+order_date
+
+Minimum: 200 rows
+
+🧪 TASKS (You Must Write Code For All)
+🔹 Part 1: Data Understanding
+
+Load dataset using pandas.
+
+Show first 10 rows.
+
+Check data types.
+
+Check missing values.
+
+Remove duplicates.
+
+Convert order_date into datetime format.
+
+🔹 Part 2: Basic Analysis
+
+What is total revenue?
+
+What is average order value?
+
+What is maximum and minimum order amount?
+
+Total number of unique customers?
+
+Most used payment method?
+
+🔹 Part 3: Customer Analysis
+
+Average age of customers?
+
+Revenue by gender?
+
+Which age group spends more? (Create age groups)
+
+Top 5 customers by spending?
+
+🔹 Part 4: Product Analysis
+
+Top selling product category?
+
+Revenue by product category?
+
+Which category has highest average price?
+
+Most frequently purchased category?
+
+🔹 Part 5: City Analysis
+
+Which city generates highest revenue?
+
+Number of orders per city?
+
+Average order value per city?
+
+🔹 Part 6: Time-Based Analysis
+
+Monthly revenue trend?
+
+Which month has highest sales?
+
+Daily average revenue?
+
+🔹 Part 7: Visualization (Use Matplotlib Only)
+
+Revenue distribution (Histogram)
+
+Revenue by category (Bar chart)
+
+Monthly sales trend (Line chart)
+
+Experience vs Revenue type scatter (age vs total amount)
+
+Payment method pie chart
+
+⚠ Do NOT use seaborn. Only matplotlib.
+
+🔹 Part 8: Advanced (Make It Job-Level)
+
+Find correlation between numeric columns.
+
+Detect outliers in total_amount.
+
+Create a business summary report (print conclusions).
+
+📌 Final Deliverables
+
+You must prepare:
+
+✔ Clean Python script
+✔ Dataset (CSV)
+✔ 5–6 Visualizations
+✔ Business Insights (5–10 points)
+
+📝 Resume Description (You Can Use This After Completion)
+
+Customer Sales Data Analysis (EDA Project)
+Performed end-to-end exploratory data analysis on 200+ customer sales records using Pandas, NumPy, and Matplotlib. Conducted customer segmentation, revenue trend analysis, and category-wise performance evaluation. Identified high-value customers and seasonal trends to support business decision-making.
+
+🎯 Why This Is Job-Ready?
+
+Because this project includes:
+
+Data cleaning
+
+GroupBy operations
+
+Feature engineering
+
+Time-series analysis
+
+Correlation
+
+Outlier detection
+
+Business insights
+
+Visualizations
+
+This is exactly what companies expect from freshers.
+
+Now listen carefully 👀
+
+After you complete this, send me:
+
+Your conclusions
+
+Any error you face
+
+Your dataset structure
+
+Then I’ll act like interviewer and ask you questions.
+
+Ready? 😎
